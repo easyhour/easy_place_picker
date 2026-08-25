@@ -1,6 +1,6 @@
 name: easy_place_picker
 description: "A Flutter package that simplifies location selection on maps, regardless of device type."
-version: 0.1.0+4
+version: 0.1.0+4-eh
 homepage: https://github.com/WissamALSbenaty/easy_place_picker
 
 repository: https://github.com/WissamALSbenaty/easy_place_picker
